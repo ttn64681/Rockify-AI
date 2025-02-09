@@ -1,0 +1,12 @@
+# Ignore environment variables
+.env
+
+# Ignore Python venv (optional)
+env/
+venv/
+.env
+.bash_profile
+
+# Ignore __pycache__ and logs
+__pycache__/
+*.log
