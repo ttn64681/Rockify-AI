@@ -1,8 +1,10 @@
 # Rockify AI
 ## Takes a user’s Spotify playlist to curate a new “Rockified” playlist, comprised of rock songs that are similar in lyrics, mood, and genre of the original user playlist.
 
+Documentation: https://docs.google.com/document/d/16wMS2wS27Scacl2JkOjbNaHnDmn-ZD4y-D8es9u-OQA/edit?usp=sharing
+
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ttn64681/Rockify-AI
 cd your-repo
 
 # 2️⃣ Create & activate a virtual environment
